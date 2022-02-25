@@ -10,6 +10,7 @@
    netdev
    finger
    unicode
+   email
    dos
    apt
    supplychain
